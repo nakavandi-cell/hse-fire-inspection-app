@@ -1,0 +1,13 @@
+{
+  "name": "hse-fire-inspection-app",
+  "version": "1.0.0",
+  "description": "سامانه بازرسی کپسول آتشنشانی",
+  "scripts": {
+    "build": "echo 'Build OK'"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/core": "^6.0.0"
+  }
+}
